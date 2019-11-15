@@ -1,0 +1,1 @@
+advertise() in NodeHandle class <--> Methods that connects to the master to publicize that the node will be publishing messages on the given topic and it returns a publisher
