@@ -1,0 +1,1 @@
+PATH="some_path_to_stuff:$PATH"  BAsh syntax for extending the PATH variable with a new string
