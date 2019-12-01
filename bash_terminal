@@ -1,1 +1,2 @@
-PATH="some_path_to_stuff:$PATH"  BAsh syntax for extending the PATH variable with a new string
+PATH="some_path_to_stuff:$PATH" <--> BAsh syntax for extending the PATH variable with a new string
+find . -name *abc* <--> find command syntax for search abc file in the current folder and in the subfolders recursevely, also considering that abc could be inside another word
