@@ -1,0 +1,1 @@
+brew info name_of_the_package brew command that outputs JSON-formatted information about formulae.
