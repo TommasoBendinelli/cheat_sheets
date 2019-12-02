@@ -4,4 +4,6 @@ advertise() in NodeHandle class <--> Methods that connects to the master to publ
 
 substitution args <--> roslaunch arguments sets with the sintax $() resolved prior to node launch in a launch file  
 
-genmsg <--> Standalone Python library for generating ROS message and service data structures for various languages. 
+genmsg <--> Standalone Python library for generating ROS message and service data structures for various languages.
+
+param vs rosparam <--> The first are tags for setting a single parameterm the second are used for setting groups or more complex structures of parameters.  

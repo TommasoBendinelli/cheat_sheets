@@ -1,0 +1,3 @@
+pd.isnull(TheSeriesYouWantToCheck) <--> How do you return a boolean series that is true where there is a NaN value and False otherwise?
+
+pd.at[0,'A'] <--> if you want the element in the first row and in columnd 'A' what do you do? 
