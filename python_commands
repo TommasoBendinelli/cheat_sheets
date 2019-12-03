@@ -1,1 +1,3 @@
 os.getcwd() <--> How to get in python the current working directory
+os.chdir('NewWorkingDirectory') <--> How to change the working directory in python?
+enumerate(list) <--> iterate through the index and the list 

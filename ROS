@@ -1,4 +1,4 @@
-advertise() in NodeHandle class <--> Methods that connects to the master to publicize that the node will be publishing messages on the given topic and it returns a publisher
+avertise() in NodeHandle class <--> Methods that connects to the master to publicize that the node will be publishing messages on the given topic and it returns a publisher
 
 <arg> tag in roslaunch file <--> tag in roslaunch file for specifying values to pass through the command line
 
@@ -6,4 +6,8 @@ substitution args <--> roslaunch arguments sets with the sintax $() resolved pri
 
 genmsg <--> Standalone Python library for generating ROS message and service data structures for various languages.
 
-param vs rosparam <--> The first are tags for setting a single parameterm the second are used for setting groups or more complex structures of parameters.  
+piaram vs rosparam <--> The first are tags for setting a single parameterm the second are used for setting groups or more complex structures of parameters.  
+
+urdf (ROS package) <--> parser for the Unified Robot Description Format
+
+lookupTransorm(frame2,frame1) in transform_listener.h  <--> It returns the transformation to frame2 from frame1 and the methods are in order frame2, frame1 
